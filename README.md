@@ -5,4 +5,13 @@ Este é um projeto desenvolvido como parte da disciplina de Programação Web I.
 
 ## 🌐 Acesso 
 Clique no link abaixo para acessar o site: 
-<a href="http://www.notte.com.br/" style="color: black;"></a>
+<a href="https://anamota13.github.io/Projeto_Mini_PI/" style="color: black;">Mini_PI</a>
+
+## 📷 Imagens e Vídeo do Projeto
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/2559fa72-7b26-4b39-99d0-ae0f1f917b6b)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/b0c732c0-09f5-4941-bf45-d5667f9faa14)
+
+
+## 💻 Screenshots | Imagens do Site
+
+
