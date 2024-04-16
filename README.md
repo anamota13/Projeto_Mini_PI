@@ -19,5 +19,7 @@ Clique <a href="http://127.0.0.1:5500/Projeto_Mini_PI/video.mp4" style="color: b
 
 
 ## 💻 Screenshots | Imagens do Site
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/4b0ecb05-8310-4259-8b69-f81918531167)
+
 
 
