@@ -20,11 +20,15 @@ Clique <a href="http://127.0.0.1:5500/Projeto_Mini_PI/video.mp4" style="color: b
 
 ## 💻 Screenshots | Imagens do Site
 Veja abaixo imagens referentes ao layout do site:
-![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/9ef75a4b-01df-4495-804d-7558052d55ee)
-![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/16750a9f-e4a7-4c45-a926-11d64bff7a20)
-![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/bee32928-36d5-465e-af8c-18b9e0541d9b)
-![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/0510659e-e972-4604-8263-69e81174ad67)
-![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/bc40c0ac-dbec-495d-915d-212729de8cef)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/68686edf-dd12-458b-a334-e901761390b0)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/890f8e30-78dc-4203-957b-2a5012bb37e6)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/039b930a-a31d-4109-b944-87556315c0c2)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/079dbebe-4a70-4616-a34e-ded5db171153)
+![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/f9544ff3-35aa-42fd-b867-6a70756125cf)
+
+
+
+
 
 
 
