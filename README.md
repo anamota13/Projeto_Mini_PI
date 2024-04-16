@@ -12,7 +12,7 @@ Clique no link abaixo para acessar o site elaborado:
 ![image](https://github.com/anamota13/Projeto_Mini_PI/assets/110187484/b0c732c0-09f5-4941-bf45-d5667f9faa14)
 
 
-Clique <a href="http://127.0.0.1:5500/Projeto_Mini_PI/video.mp4" style="color: black;">aqui</a> para acessar o conteúdo do vídeo. 
+<b>Clique <a href="http://127.0.0.1:5500/Projeto_Mini_PI/video.mp4" style="color: black;">aqui</a> para acessar o conteúdo do vídeo.</b>
 
 
 
